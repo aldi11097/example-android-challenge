@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubCommit</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="commit_text">Commit : %s</string>
+    <string name="message_no_item_found">No Commits Found</string>
+    <string name="message_no_internet_connection">No Internet Connection</string>
+    <string name="menu_limit">Limit</string>
+</resources>
